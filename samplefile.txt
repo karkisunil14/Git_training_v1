@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdkfsdf
+=======
+shsThis is a sample file 1
+This is a sample file 2
+>>>>>>> develop
